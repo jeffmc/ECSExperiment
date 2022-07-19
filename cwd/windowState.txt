@@ -1,0 +1,8 @@
+yDiv=336
+windowY=92
+windowX=114
+windowHeight=786
+maximized=false
+compEntDiv=173
+windowWidth=1589
+xDiv=357

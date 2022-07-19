@@ -1,0 +1,2 @@
+fontIdx=198
+fontSzIdx=14

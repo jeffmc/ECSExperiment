@@ -1,0 +1,5 @@
+windowY=58
+windowX=324
+windowHeight=856
+maximized=false
+windowWidth=1316

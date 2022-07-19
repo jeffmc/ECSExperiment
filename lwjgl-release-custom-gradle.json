@@ -1,0 +1,33 @@
+{
+  "build": "release",
+  "mode": "gradle",
+  "selectedAddons": [],
+  "platform": [
+    "windows"
+  ],
+  "descriptions": true,
+  "compact": false,
+  "hardcoded": false,
+  "javadoc": true,
+  "includeJSON": true,
+  "source": true,
+  "osgi": false,
+  "language": "groovy",
+  "contents": [
+    "lwjgl",
+    "lwjgl-assimp",
+    "lwjgl-glfw",
+    "lwjgl-lz4",
+    "lwjgl-nfd",
+    "lwjgl-nuklear",
+    "lwjgl-openal",
+    "lwjgl-opencl",
+    "lwjgl-opengl",
+    "lwjgl-par",
+    "lwjgl-remotery",
+    "lwjgl-stb",
+    "lwjgl-vulkan"
+  ],
+  "version": "3.3.1",
+  "versionLatest": "3.3.1"
+}
